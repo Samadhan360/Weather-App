@@ -1,2 +1,2 @@
 # Weather-App
-Simple Weather App to get temperature at real time. 
+Weather App to get the temperature in real-time. 
